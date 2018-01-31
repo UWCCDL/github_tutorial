@@ -1,4 +1,4 @@
-#Git/GitHub tutorial
+# Git/GitHub tutorial
 
 Tutorial for getting up and going with git/github
 
